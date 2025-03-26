@@ -2,7 +2,7 @@ USE_DCVS:
  Unified Sparsity Estimation-based Distributed Compressive Video Sensing
 
 The source codes and data of the work
-"Adaptive Rate Compression for Distributed Video Sensing in Wireless Visual Sensor Networks"
+Song, Z., Chen, J. Adaptive rate compression for distributed video sensing in wireless visual sensor networks. Vis Comput (2025). https://doi.org/10.1007/s00371-025-03845-5.
 
 % -----------------------------------------------------------------------
 % Author: Zhen Song
